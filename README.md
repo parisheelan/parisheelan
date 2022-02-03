@@ -1,4 +1,5 @@
-# Parisheelan Negi
+<h1 align="center">Hi 👋, I'm Parisheelan Negi</h1>
+<h3 align="center">Sophomore | Frontend Developer</h3>
 
 
 

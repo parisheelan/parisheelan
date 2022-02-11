@@ -15,7 +15,7 @@
 ***
 
 ## Connect with me:
-[Portfolio Website](parisheelan.me)
+[Portfolio Website](http://parisheelan.me/)
 <p align="left">
 <a href="https://linkedin.com/in/parisheelan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parisheelan_negi" height="30" width="40" /></a>
 <a href="https://www.instagram.com/parisheelan_negi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parisheelan_negi" height="30" width="40" /></a>

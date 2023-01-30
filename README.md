@@ -1,12 +1,10 @@
 <h1 align="center">Hi 🫂, I'm Parisheelan Negi</h1>
-<h3 align="center">Sophomore | Frontend Developer</h3>
-
-![img](https://github.com/parisheelan/parisheelan/blob/main/1643638972532.jpeg)
+<h3 align="center">Pre-Final Year | Frontend Developer</h3>
 
 <pre>
 
-- 🌱 I’m currently learning: JavaScript, React
-- 🔭 I’m currently doing: #100DaysOfCode
+- 🌱 I’m currently learning: Python, ML/AI
+- 🔭 I’m currently doing: Machine Learning
 - 📫 How to reach me: <b>parisheelannegi@gmail.com</b>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parisheelan&label=%20views&color=0e75b6&style=flat" alt="parisheelan" /> </p>

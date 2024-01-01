@@ -1,10 +1,9 @@
 <h1 align="center">Hi 🫂, I'm Parisheelan Negi</h1>
-<h3 align="center">Pre-Final Year | Frontend Developer</h3>
+<h3 align="center">Final Year | Machine Learning</h3>
 
 <pre>
 
 - 🌱 I’m currently learning: Python, ML/AI
-- 🔭 I’m currently doing: Machine Learning
 - 📫 How to reach me: <b>parisheelannegi@gmail.com</b>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parisheelan&label=%20views&color=0e75b6&style=flat" alt="parisheelan" /> </p>
